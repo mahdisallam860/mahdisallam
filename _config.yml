@@ -23,7 +23,7 @@ repository               : "mahdisallam860/MahdiSallam.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Al Mahdi Sallam" 
   pronouns         : # example: "he/him"  
   bio              : "Mechatronics & Robotics Engineer with a strong foundation in automation, AI, and control systems. Experienced in ROS, KUKA robotics, and intelligent inspection systems."
