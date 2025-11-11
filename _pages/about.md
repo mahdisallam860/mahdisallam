@@ -5,13 +5,6 @@ permalink: /
 author_profile: true
 redirect_from:
   - /resume
-gallery:
-  - url: /images/kuka_work.jpg
-    image_path: /images/kuka_work.jpg
-    alt: "Al Mahdi working with KUKA robot"
-  - url: /images/kuka_work_2.jpg
-    image_path: /images/kuka_work_2.jpg
-    alt: "Al Mahdi overseeing KUKA robot operation"
 ---
 
 {% include base_path %}
@@ -20,7 +13,9 @@ Hello! I'm Al Mahdi Sallam, a Mechatronics and Robotics Engineer based in Riyadh
 
 I am a passionate and dedicated engineering graduate from Universiti Teknologi Malaysia (UTM) with hands-on experience in robotics, AI, and automation. Currently, I work as a **Robotics Specialist at AMSY**, where I handle complex fabrication tasks by programming and optimizing KUKA robotic cells with Autodesk PowerMill, developing precision toolpaths, and implementing quality control procedures.
 
-{% include gallery id="my-kuka-work" caption="Working with KUKA Robots at AMSY" %}
+![Al Mahdi working with KUKA robot](/images/kuka_work.jpg){: .align-center}
+![Al Mahdi overseeing KUKA robot operation](/images/kuka_work_2.jpg){: .align-center}
+*<p style="text-align: center; font-style: italic;">Working with KUKA Robots at AMSY</p>*
 
 My expertise includes robotic system design, AI-driven automation, and embedded systems. I am particularly skilled in programming for industrial robots, developing autonomous navigation systems using **ROS (Robot Operating System)**, and implementing machine learning models (like YOLOv5) for real-world applications like surface defect detection.
 
