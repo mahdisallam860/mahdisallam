@@ -1,4 +1,3 @@
-
 ---
 layout: archive
 title: "CV"
@@ -9,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
 
 Education
 ======
@@ -90,11 +88,4 @@ Service and leadership
   * Selected as Delegate for the Moroccan Summer University
   * Networked with 300+ students from 31+ countries, enhancing cross-cultural communication
 * **Campus Ambassador**, Pints, Singapore (May 2023 - Jun 2023)
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 
