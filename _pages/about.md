@@ -3,7 +3,18 @@ layout: about
 title: About
 permalink: /
 author_profile: true
+redirect_from:
+  - /resume
+gallery:
+  - url: /images/kuka_work.jpg
+    image_path: /images/kuka_work.jpg
+    alt: "Al Mahdi working with KUKA robot"
+  - url: /images/kuka_work_2.jpg
+    image_path: /images/kuka_work_2.jpg
+    alt: "Al Mahdi overseeing KUKA robot operation"
 ---
+
+{% include base_path %}
 
 Hello! I'm Al Mahdi Sallam, a Mechatronics and Robotics Engineer based in Riyadh, Saudi Arabia.
 
