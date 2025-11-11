@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Al Mahdi Sallam"
+  name             : "Al Mahdi Sallam" 
   pronouns         : # example: "he/him"  
   bio              : "  bio: "Mechatronics & Robotics Engineer with a strong foundation in automation, AI, and control systems. Experienced in ROS, KUKA robotics, and intelligent inspection systems."
   location         : "Riyadh, Saudi Arabia"
